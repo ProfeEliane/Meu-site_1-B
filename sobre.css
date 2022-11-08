@@ -1,0 +1,31 @@
+header {
+	background: #e8d5de;
+	padding: 20px 0;
+}
+
+body .logo {
+    width: 50%;
+}
+
+nav {
+	position: absolute;
+	top: 110px;
+	right: 0;
+}
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: orangered;
+	text-decoration: underline;
+}

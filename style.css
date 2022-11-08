@@ -1,0 +1,83 @@
+header {
+	background: #e8d5de;
+	padding: 20px 0;
+}
+
+.banner {
+    width: 50%;
+    border: #0b0a0a;
+}
+body {
+    background-color: rgb(180, 214, 255);
+}
+    
+.cortitulo {
+    font-size: 60px;
+    color: #e8d5de;
+    margin: 0 0;
+}
+
+body .logo {
+    width: 50%;
+}
+
+.titulo-principal {
+    font-size: 60px;
+    text-align: center;
+    padding: 0%;
+    margin: 0%;
+    color: rgb(245, 199, 227);
+    background-color: rgb(220, 228, 245);
+}
+
+p {
+    text-align: center;
+}
+
+b {
+    color: red;
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+    font-size: 50px;
+}
+
+
+ul {
+    color: black;
+}
+
+.margarida {
+    content: 🌺;
+}
+
+nav {
+	position: absolute;
+	top: 110px;
+	right: 0;
+}
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+    
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: orangered;
+	text-decoration: underline;
+}
+
+h1,p {
+    padding: 10px;
+    margin: 5px;
+}
